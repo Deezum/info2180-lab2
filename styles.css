@@ -3,17 +3,17 @@ body{
     color: #2D3748;
     font-family: -apple-system,BlinkMacSystemFont,"SegoeUI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sansserif;
 }
-.circle{
+.me{
     border-radius: 50%;
     width: 250px;
     height: 250px;
 }
-.blog1{
+.group{
     float:right; 
     width:250px; 
     height:250px;
 }
-.blog2{
+.super{
     float:left; 
     width:250px; 
     height:250px;
